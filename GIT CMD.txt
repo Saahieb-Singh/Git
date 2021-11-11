@@ -1,0 +1,14 @@
+//TO START A NEW REPOSTIORY
+git init [repository name]
+
+// To DETECT THE FILE THAT HAAVE TO BE COMMITTED IN YOU REPOSITORY
+git status
+
+//WHEN AND WHO MADE CHANGES AND SHOW VERSION HISTORY 
+git log
+
+//TO ADD YOUR NAME AND EMAIL
+git config -global user.name '[name]'
+git config -global user.email'[email]'
+otherwise git will take default name (window name)
+
